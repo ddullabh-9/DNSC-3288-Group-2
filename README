@@ -1,13 +1,13 @@
 ### Basic information: 
-John, john@grp2.com, Arjun, arjun@grp2.com, Darshan, darshan@grp2.com, Martin, martin@grp2.com 
-December 9th 2024
-Model 0.1
-License: MIT
-Model implementation code: https://colab.research.google.com/drive/1s4KHqa7oZ6zvu8oNIp4UOOGSXbFfxC6q#scrollTo=D06vOZTmifBZ 
-Intended Use:
-Intended uses: Predict sale price of a piece of Real Estate
-Intended users: Zillow.com, Homes.com
-Out-of-scope uses: None
+* John, john@grp2.com, Arjun, arjun@grp2.com, Darshan, darshan@grp2.com, Martin, martin@grp2.com 
+* December 9th 2024
+* Model 0.1
+* License: MIT
+* Model implementation code: https://colab.research.google.com/drive/1s4KHqa7oZ6zvu8oNIp4UOOGSXbFfxC6q#scrollTo=D06vOZTmifBZ 
+* Intended Use:
+* Intended uses: Predict sale price of a piece of Real Estate
+* Intended users: Zillow.com, Homes.com
+* Out-of-scope uses: None
 
 ###Training data:
 Source of training data
